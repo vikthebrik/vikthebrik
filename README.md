@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Vikram Thirumaran, <br>I am a dual-degree student at the University of Oregon <br>pursuing B.S. degrees in Computer Science and Data Science. <br>My work sits at the intersection of high-performance computing, <br>data analytics, and software engineering.<br>I am deeply passionate about the synergy between biological systems and silicon. <br>My goal is to pursue postgraduate schooling in:<br>- Computational Neuroscience<br>- Neurocomputing<br>- Biocomputing<br><br>I aim to leverage my background in complex system architecture and <br>data science to contribute to how we understand and interface <br>with the human brain.
+Hi there! I'm Vikram Thirumaran, <br>I am a dual-degree student at the University of Oregon <br>pursuing B.S. degrees in Computer Science and Data Science, with minors in Mathematics and Cognitive Science. <br>My work sits at the intersection of high-performance computing, <br>data analytics, and software engineering.<br>I am deeply passionate about the synergy between biological systems and silicon. <br>My goal is to pursue postgraduate schooling in:<br>- Computational Neuroscience<br>- Neurocomputing<br>- Biocomputing<br><br>I aim to leverage my background in complex system architecture and <br>data science to contribute to how we understand and interface <br>with the human brain.
 
 
 ## 🌐 Socials:
